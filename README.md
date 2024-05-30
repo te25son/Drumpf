@@ -1,5 +1,7 @@
 # drumpf
 
+A stupid application that pulls a stupider Donald Trump quote from [tronalddump.io](https://www.tronalddump.io). Bascially, I just wanted to test out the gleam language :star:
+
 [![Package Version](https://img.shields.io/hexpm/v/drumpf)](https://hex.pm/packages/drumpf)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/drumpf/)
 
